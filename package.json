@@ -1,20 +1,17 @@
 {
-  "name": "bitandbang",
+  "name": "lannonbr",
   "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Benjamin Lannon (@lannonbr)",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "lannonbr": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "url": "https://github.com/lannonbr/npx-card.git"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Benjamin Lannon <benjamin@lannonbr.com>",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
